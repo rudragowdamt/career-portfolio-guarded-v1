@@ -1,4 +1,4 @@
-import os,time,threading,hashlib,datetime,json
+﻿import os,time,threading,hashlib,datetime,json
 from collections import defaultdict,deque
 from contextlib import asynccontextmanager
 from fastapi import FastAPI,HTTPException,Request
@@ -155,8 +155,11 @@ def chat(body:ChatRequest,request:Request):
             except Exception:
                 pass
         except Exception as exc:
+            import logging
+            logging.getLogger(__name__).exception('AI generation failed')
             # Avoid exposing AWS internals and credentials to public users.
             raise HTTPException(503,"AI generation is temporarily unavailable") from exc
     else:
         answer=fallback(hits)
     return {"answer":answer,"sources":[{"title":h["title"],"url":h["url"],"score":h["score"]} for h in hits],"mode":MODE}
+
