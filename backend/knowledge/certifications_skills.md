@@ -1,0 +1,2 @@
+# Skills and certifications
+AWS Certified Solutions Architect – Associate; AWS Certified Cloud Practitioner; Boomi Professional Architect, Professional Developer and Professional API Management; Certified ScrumMaster (CSM). Skills: Python, REST/SOAP, JSON/XML, Boomi AtomSphere, TIBCO BusinessWorks, TIBCO EMS, Axway MFT, Layer7 API Gateway, AWS Lambda, API Gateway, IAM, Secrets Manager, CloudWatch, SAM, S3, ServiceNow, incident management, technical delivery, disaster recovery, MLOps fundamentals, GenAI and RAG projects.

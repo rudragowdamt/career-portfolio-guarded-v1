@@ -1,0 +1,107 @@
+{
+  "name": "Rudragowda M. T.",
+  "eyebrow": "TECHNICAL DELIVERY · ENTERPRISE INTEGRATION · APPLIED AI",
+  "headline": "Enterprise reliability meets practical AI.",
+  "summary": "15+ years leading business-critical integration, middleware operations, incident response, and technical delivery. Building hands-on AWS and GenAI solutions for real operational challenges.",
+  "location": "Bengaluru, India",
+  "email": "rudragowdamt@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/rudragowda-m-t-csm-36735661/",
+  "github": "https://github.com/rudragowdamt",
+  "metrics": [
+    {
+      "value": "15+",
+      "label": "Years in enterprise technology"
+    },
+    {
+      "value": "5,000+",
+      "label": "Interfaces in supported estate"
+    },
+    {
+      "value": "93%",
+      "label": "Reduction in major incidents"
+    },
+    {
+      "value": "10%",
+      "label": "YoY faster ticket resolution"
+    },
+    {
+      "value": "30%",
+      "label": "Reduction in high user incidents · FY26"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Enterprise RAG Copilot",
+      "category": "GENAI · RETRIEVAL · AWS",
+      "description": "An enterprise knowledge assistant using document embeddings, semantic retrieval, grounded answers and citations. Iterated across multi-platform error intelligence and automated indexing.",
+      "url": "https://github.com/rudragowdamt/enterprise-rag-copilot-v1",
+      "tags": [
+        "Python",
+        "Amazon Bedrock",
+        "Titan Embeddings",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "AI-Powered Integration Incident Intelligence",
+      "category": "ML · SERVERLESS · ITSM",
+      "description": "Incident severity classification, Bedrock-generated investigation summaries, and correlated ServiceNow incident automation through AWS APIs and Lambda.",
+      "url": "",
+      "tags": [
+        "AWS Lambda",
+        "Amazon Bedrock",
+        "ServiceNow",
+        "Python"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Senior Application Developer — Middleware Service Delivery",
+      "company": "Cargill Business Services India",
+      "dates": "2023 — Present",
+      "description": "Lead service delivery, operational governance, incident and problem management, releases and DR coordination across HR, Trade and Treasury integrations."
+    },
+    {
+      "role": "Technical Quality Lead — Middleware Development",
+      "company": "Cargill Business Services India",
+      "dates": "2020 — 2022",
+      "description": "Led delivery quality, integration design reviews, release readiness and cross-functional go-live coordination."
+    },
+    {
+      "role": "Middleware L3 Lead / Operations Lead",
+      "company": "Cargill Business Services India",
+      "dates": "2017 — 2019",
+      "description": "Led L3 and L2 support, coached an 8+ member Scrum team and managed critical incidents and operational improvements."
+    },
+    {
+      "role": "Team Lead — ANZ Wealth Production Support",
+      "company": "Wipro Technologies",
+      "dates": "2011 — 2017",
+      "description": "Led 24/7 support for 80+ TIBCO interfaces, including releases, production validation and disaster recovery."
+    }
+  ],
+  "skills": [
+    "Technical Delivery",
+    "Incident & Problem Management",
+    "Disaster Recovery",
+    "Boomi",
+    "TIBCO",
+    "Axway MFT",
+    "Layer7 API Gateway",
+    "AWS",
+    "Python",
+    "Amazon Bedrock",
+    "RAG",
+    "MLOps Fundamentals",
+    "ServiceNow",
+    "FastAPI (portfolio project)"
+  ],
+  "certifications": [
+    "AWS Certified Solutions Architect – Associate",
+    "AWS Certified Cloud Practitioner",
+    "Boomi Professional Architect / Developer / API Management",
+    "Certified ScrumMaster (CSM)"
+  ],
+  "assistant_note": "AI assistant uses the Phase 3 FastAPI backend when configured; otherwise it reports unavailable."
+}

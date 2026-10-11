@@ -1,0 +1,2 @@
+# Enterprise RAG Copilot
+Portfolio project described in the editable website profile, not in the supplied resume. Knowledge assistant using document embeddings, semantic retrieval, grounded answers and citations, with iterative work on integration error knowledge and automated indexing. Listed technologies include Python, Amazon Bedrock, Titan Embeddings and GitHub Actions. Do not claim production-scale client deployment or unverified accuracy numbers.
